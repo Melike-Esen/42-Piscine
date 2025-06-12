@@ -10,12 +10,23 @@ cd 42-Piscine
 
 42 projeleri belli kurallara uyar. Bunları yazmak hem kendin hem başkaları için faydalı olur.
 
+```markdown
  ✅ Proje Gereksinimleri
 
 - `-Wall -Wextra -Werror` ile derlenebilir olmalı
 - Kütüphane kullanımı yasaktır (örneğin `#include <string.h>` gibi)
 - Bellek sızıntısı (memory leak) olmamalı
 - Fonksiyonlar belirlenen prototipe uygun olmalı
+
+ ✅ Proje İçerikleri
+
+- **C00**: Temel yazdırma ve kontrol fonksiyonları (örneğin, `ft_putchar`, `ft_print_alphabet`)
+- **C01**: Diziler ve fonksiyonlar (örneğin, `ft_strlen`, `ft_swap`)
+- **C02**: String kopyalama ve karşılaştırma fonksiyonları (`ft_strcpy`, `ft_strcmp`)
+- **C03**: Gelişmiş string işlemleri (`ft_strcat`, `ft_strstr`)
+- **C04**: Dosya tanımlayıcı ile yazdırma fonksiyonları (`ft_putchar_fd`, `ft_putstr_fd`)
+- **C05**: Rekürsif fonksiyonlar (`ft_factorial`, `ft_fibonacci`)
+- **C06**: Matematiksel ve ileri seviye fonksiyonl
 
 🧠 Öğrendiklerim
 
