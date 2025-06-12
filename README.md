@@ -10,7 +10,6 @@ cd 42-Piscine
 
 42 projeleri belli kurallara uyar. Bunları yazmak hem kendin hem başkaları için faydalı olur.
 
-```markdown
  ✅ Proje Gereksinimleri
 
 - `-Wall -Wextra -Werror` ile derlenebilir olmalı
